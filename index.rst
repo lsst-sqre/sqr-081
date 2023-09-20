@@ -258,7 +258,7 @@ In fact they are so valuable that I no longer trust any process that does not ta
    This is where a candidate that you unconsciously felt less than positive about (because of language barrier, because of neuro-atypical behavior, because they were too goddamn nervous despite your best efforts to put them at ease) gets the benefit of an account of them in the absence of those biases.
    It also allows you to fact-check your impressions - for example, a candidate who appeared perhaps a bit too combative in their interview got a reference that identified that their intensity and sense of ownership sometimes comes across as combative.
    This was great input and resulted in that candidate being offered the position - and they have done great in post.
-* Reference letters are useless.
+*  Reference letters are useless.
    Come on, you know it, you have written a reference letter that did not contain a full account of someone’s flaws, right?
    (Even in cases where you are allowed to write a reference letter at all).
    Tone of voice does not lie and people are more direct in a 1:1 call.
