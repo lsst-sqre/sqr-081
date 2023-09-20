@@ -192,7 +192,7 @@ The talk Q&A is where the magic happens.
 *  This is a far, *far* more realistic simulation of a real work interaction that the “traditional” or “dotcom” interview formats provide for.
    This is literally what we do in the team week in and week out - have constructive technical arguments - and I greatly value someone’s ability to navigate them effectively (not combative or defensive but also not conflict averse).
    Interruptions are realistic and they allow questions to arise that need context (questions with high contextual value allow for greater specificity in answers).
-* At this point even anxious and/or neurodivergent candidates get into the swing of things - being asked a vague question of uncertain context is stressful, being asked “oh I see you used module X here - did you like it, cause I tried it and thought it kinda sucked” is a question that makes any candidate light up.
+*  At this point even anxious and/or neurodivergent candidates get into the swing of things - being asked a vague question of uncertain context is stressful, being asked “oh I see you used module X here - did you like it, cause I tried it and thought it kinda sucked” is a question that makes any candidate light up.
    It meets them where they are, and introduces an honest, gentle, productive conflict (to be clear, only say things like that if they are true, don’t create fake drama, omg).
 *  Yeah it takes time. It takes a lot of time.
    And the better the candidate is, the more time it can take.
