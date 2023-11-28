@@ -6,11 +6,9 @@
 
 .. TODO: Delete the note below before merging new content to the main branch.
 
-.. note::
-
-   **This is not a Rubin Data Management policy document; it is an explanation of practice in one team. It is being published for transparency and in the hope of sparking useful discussions.**
-
-   This document, while non-technical, is written in a technical context. In particular, the word "bias" is used in its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice).
+#############
+On Recruiting
+#############
 
 Abstract
 ========
