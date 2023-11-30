@@ -50,7 +50,7 @@ linkcheck:
 	$(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(BUILDDIR)/linkcheck
 	@echo
 	@echo "Link check complete; look for any errors in the above output " \
-	      "or in $(BUILDDIR)/linkcheck/output.txt."
+			"or in $(BUILDDIR)/linkcheck/output.txt."
 
 refresh-bib:
 	refresh-lsst-bib -d lsstbib
@@ -62,7 +62,6 @@ refresh-bib:
 init:
 	pip install tox pre-commit
 	pre-commit install
-
 
 .PHONY:
 lint:
