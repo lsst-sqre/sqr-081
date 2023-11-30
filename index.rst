@@ -10,10 +10,9 @@
 On Recruiting
 #############
 
-Abstract
-========
+.. abstract::
 
-An editorial on how I hire and why.
+   An editorial on how I hire and why.
 
 On Recruiting
 =============
