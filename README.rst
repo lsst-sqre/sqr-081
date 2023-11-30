@@ -14,7 +14,7 @@ On Recruiting
 SQR-081
 =======
 
-An editorial on how we hire and why. 
+An editorial on how we hire and why.
 
 **Links:**
 
