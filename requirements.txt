@@ -1,4 +1,4 @@
-documenteer[technote]==1.0.0a13
+#documenteer[technote]==1.0.0a6
 
 # # Provided versioning; currently non-functional
-# documenteer[technote]>=1.0.0,<2.0.0
+ documenteer[technote]>=1.0.0,<2.0.0

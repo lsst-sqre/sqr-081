@@ -29,12 +29,12 @@ help:
 	@echo "  refresh-bib  to update LSST bibliographies in lsstbib/"
 
 clean:
-	rm -rf $(BUILDDIR)/*
+	rm -rf _build
+	rm -rf .technote
+	rm -rf .tox
 
 html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
-	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	tox run -e html
 
 epub:
 	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
