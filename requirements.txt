@@ -1,1 +1,4 @@
 documenteer[technote]==1.0.0a13
+
+# # Provided versioning; currently non-functional
+# documenteer[technote]>=1.0.0,<2.0.0
