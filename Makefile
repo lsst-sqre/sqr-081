@@ -56,3 +56,23 @@ refresh-bib:
 	refresh-lsst-bib -d lsstbib
 	@echo
 	@echo "Commit the new bibliographies: git add lsstbib && git commit -m \"Update bibliographies.\""
+
+
+.PHONY:
+init:
+     pip install tox pre-commit
+     pre-commit install
+
+.PHONY:
+html:
+     tox run -e html
+
+.PHONY:
+lint:
+     tox run -e lint,link-check
+
+.PHONY:
+clean:
+     rm -rf _build
+     rm -rf .technote
+     rm -rf .tox
