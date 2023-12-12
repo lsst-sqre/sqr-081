@@ -474,11 +474,13 @@ During your visit you will:
 -  Have 1:1 meetings with -members of the search committee - members of the SQuaRE team - any other LSST staff who express interest
 -  Meet with our HR generalist
 
+We will send you an exact timetable nearer the time. 
+
 **Talk**
 
 **Topic:** We are asking you to prepare in advance a 30-60 minute technical talk based on your work and that seems to you to be relevant to the technical space of the position as you understand it. **The emphasis is on content, not presentation**. You may use slides, give a demo, do a code walkthrough, or just talk, as you prefer. We have the typical A/V equipment to plug your laptop into and visitor WiFi.
 
-**Audience:** The team manager will invite a small group (some local, some perhaps coming in via teleconferencing) that are sufficiently versed in the technical area that you do not need to worry about skirting around details or providing large amounts of background. The team manager will e-mail you the expected attendance list and their roles by the prior evening.
+**Audience:** The team manager will invite a small group (some local, some perhaps coming in via teleconferencing); they will all be software developers so you do not need to worry about skirting around details or providing large amounts of background. The team manager will e-mail you the expected attendance list and their roles by the prior evening.
 
 **Format:** You should expect an informal atmosphere with frequent interruptions for questions and ad-hoc discussions on the material that lead sometimes to considerable tangents. You are free to pursue questions of your own as these topics come up. Typically this adds another hour to what would have been the normal duration of the talk.
 
@@ -506,7 +508,7 @@ The whole process will take most of the working day, so when you make your trave
 
 LSST is a quasi-academic / casual dress environment. With SQuaRE you are not expected to suit up, but neither will you be frowned upon for doing so — do whatever makes you comfortable. Most people in the room will be in “engineer chic” — something like polos/khakis.
 
-Please email SQuaRE’s manager at [] if you have any questions (or would like advice on selecting a talk topic), and we look forward to seeing you soon.
+Please email SQuaRE’s manager at [] if you have any questions (or would like advice on selecting a talk topic). If you would find understanding the motivation behind our format helpful, you can read about it at sqr-081.lsst.io 
 
 Appendix E: The reference call
 ==============================
