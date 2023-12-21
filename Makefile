@@ -65,4 +65,4 @@ init:
 
 .PHONY:
 lint:
-	tox run -e lint,link-check
+	tox run -e lint-linkcheck
