@@ -18,10 +18,6 @@ On Recruiting
 
    This document, while non-technical, is written in a technical context. In particular, the word "bias" is used in its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice).
 
-Abstract
-========
-
-An editorial on how I hire and why.
 
 On Recruiting
 =============
