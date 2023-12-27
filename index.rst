@@ -1,6 +1,12 @@
-:tocdepth: 1
+#############
+On Recruiting
+#############
 
-.. sectnum::
+.. abstract::
+
+   An editorial on how we hire and why. 
+
+
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
 
