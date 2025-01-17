@@ -117,7 +117,7 @@ Evaluate the candidate’s work
 -----------------------------
 
 This can be the most straightforward and most information-rich step.
-The candidate is asked to provide a Github username, or a pointer to any other publicly available code.
+The candidate is asked to provide a Github resume, or a pointer to any other publicly available code.
 This is reviewed ahead of time by both panel and team members.
 
 Simply put, the best way to determine whether someone will write good code is… to look at their code.
