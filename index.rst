@@ -1,6 +1,12 @@
-:tocdepth: 1
+#############
+On Recruiting
+#############
 
-.. sectnum::
+.. abstract::
+
+   An editorial on how we hire and why. 
+
+
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
 
@@ -12,10 +18,6 @@
 
    This document, while non-technical, is written in a technical context. In particular, the word "bias" is used mostly its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice). Of course one can easily result in the other, but even when it does not, it's bad news for you, your team and your project.
 
-Abstract
-========
-
-An editorial on how I hire and why.
 
 On Recruiting
 =============
@@ -51,7 +53,7 @@ Why does this framing matter?
 3. It places the team (typically peers) centrally in a process that often favours managers.
    (Note this is *not the same at all* as the dreaded “interviewing for fit” practice - see later).
 4. It acknowledges that the trade-offs that are made during nuanced recruiting that are hard to capture in a standard question + point scoring format.
-   For example, the team may respond more positively to a more junior person with a great track record for picking up new things than a more exprienced person with an inflexible attitude.
+   For example, the team may respond more positively to a more junior person with a great track record for picking up new things than a more experienced person with an inflexible attitude.
    Sure, all things being absolutely equal you might want the person with more experience, but things are never absolutely equal.
 5. Transparency! Informed consent! You cannot maximize job satisfaction if you hide things from the candidates.
    It’s like using a solver for Wordle.  You’re only cheating yourself (and it misses the point of the exercise.)
@@ -115,7 +117,7 @@ Evaluate the candidate’s work
 -----------------------------
 
 This can be the most straightforward and most information-rich step.
-The candidate is asked to provide a Github username, or a pointer to any other publicly available code.
+The candidate is asked to provide a Github resume, or a pointer to any other publicly available code.
 This is reviewed ahead of time by both panel and team members.
 
 Simply put, the best way to determine whether someone will write good code is… to look at their code.
@@ -124,7 +126,7 @@ Would you actually consider hiring them without seeing a portofolio?
 
 Even if the code is not in a language or area relating to the job description, you can derive highly actionable information from it such as cleanliness of style, documentation style, architectural hygiene and best practices such lint and test.
 
-If the candidate has code on Github (increasingly common in these “Github is your résumé” days) this is ideal, as you can also asses peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
+If the candidate has code on Github (increasingly common in these “Github is your résumé” days) this is ideal, as you can also assess peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
 
 If the candidate does not have code publicly available that they can point you to, you can ask them to provide you with sample code.
 This is somewhat less information-rich than seeing their unedited activity, but is still remarkably useful: in our experience, people who write poor code don’t know they are writing poor code, and hence the code provided is flawed, despite the opportunity given to showcase their best work.
@@ -475,11 +477,13 @@ During your visit you will:
 -  Have 1:1 meetings with -members of the search committee - members of the SQuaRE team - any other LSST staff who express interest
 -  Meet with our HR generalist
 
+We will send you an exact timetable nearer the time. 
+
 **Talk**
 
 **Topic:** We are asking you to prepare in advance a 30-60 minute technical talk based on your work and that seems to you to be relevant to the technical space of the position as you understand it. **The emphasis is on content, not presentation**. You may use slides, give a demo, do a code walkthrough, or just talk, as you prefer. We have the typical A/V equipment to plug your laptop into and visitor WiFi.
 
-**Audience:** The team manager will invite a small group (some local, some perhaps coming in via teleconferencing) that are sufficiently versed in the technical area that you do not need to worry about skirting around details or providing large amounts of background. The team manager will e-mail you the expected attendance list and their roles by the prior evening.
+**Audience:** The team manager will invite a small group (some local, some perhaps coming in via teleconferencing); they will all be software developers so you do not need to worry about skirting around details or providing large amounts of background. The team manager will e-mail you the expected attendance list and their roles by the prior evening.
 
 **Format:** You should expect an informal atmosphere with frequent interruptions for questions and ad-hoc discussions on the material that lead sometimes to considerable tangents. You are free to pursue questions of your own as these topics come up. Typically this adds another hour to what would have been the normal duration of the talk.
 
@@ -507,7 +511,7 @@ The whole process will take most of the working day, so when you make your trave
 
 LSST is a quasi-academic / casual dress environment. With SQuaRE you are not expected to suit up, but neither will you be frowned upon for doing so — do whatever makes you comfortable. Most people in the room will be in “engineer chic” — something like polos/khakis.
 
-Please email SQuaRE’s manager at [] if you have any questions (or would like advice on selecting a talk topic), and we look forward to seeing you soon.
+Please email SQuaRE’s manager at [] if you have any questions (or would like advice on selecting a talk topic). If you would find understanding the motivation behind our format helpful, you can read about it at sqr-081.lsst.io 
 
 Appendix E: The manager-to-manager call
 =======================================
@@ -554,6 +558,6 @@ Here are some points and pitfalls:
 -  Re the language issue: a great programmer can code in any language. The question is, are you able to *tell* they are a great programmer in the language they are currently coding in. There’s nothing wrong with asking for python if you are a python shop (obviously), but don’t box yourself in too much.
 -  Re the background issue: Ideally a team should have a mix of backgrounds, but I at least have found it far easier to teach astronomy to my software engineers than to teach software engineering to my astronomers. Ask for an astronomical background only when absolutely necessary.
 -  Under “Required” only list things you are absolutely unwilling to live without. Most of your content should be under “Desirable” to give yourself more flexibility.
--  Finally, always have your job descriptions proofread by someone outside your immediate organization. It is amazing how often you can be unconsciously telegraphing negative messages, especially if you are in the habit of recycling them or frankensteining text previous openings.
+-  Finally, always have your job descriptions proofread by someone outside your immediate organization. It is amazing how often you can be unconsciously telegraphing negative messages, especially if you are in the habit of recycling them or frankensteining text from previous openings.
 
 Good luck!
