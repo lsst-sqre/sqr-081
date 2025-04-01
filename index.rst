@@ -16,7 +16,7 @@ On Recruiting
 
    **This is not a Rubin Data Management policy document; it is an explanation of practice in one team. It is being published for transparency and in the hope of sparking useful discussions.**
 
-   This document, while non-technical, is written in a technical context. In particular, the word "bias" is used in its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice).
+   This document, while non-technical, is written in a technical context. In particular, the word "bias" is used mostly its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice). Of course one can easily result in the other, but even when it does not, it's bad news for you, your team and your project.
 
 
 On Recruiting
@@ -24,7 +24,7 @@ On Recruiting
 
 This is an explanation of the interview format I prefer and the reasons for it.
 It was developed in order to recruit software engineers / devops engineers into high-performing teams, but it has been adapted successfully in other areas of the project.
-It takes into account lessons that have been learned in how to minimize bias and discrimination during this process
+It takes into account lessons that have been learned in how to minimize bias and discrimination during this process that can result in a hire you end up regretting in the long run.
 For an account of my credentials and earned experience that led to these opinions, please see Appendix A.
 
 I will occasionally contrast this with the “traditional” process that is frequently used in quasi-academic, government and other institutions without a strong technical ethos, as well as the “dotcom” process that describes practices common in Silicon Valley.
@@ -126,7 +126,7 @@ Would you actually consider hiring them without seeing a portofolio?
 
 Even if the code is not in a language or area relating to the job description, you can derive highly actionable information from it such as cleanliness of style, documentation style, architectural hygiene and best practices such lint and test.
 
-If the candidate has code on Github (increasingly common in these “Github is your username” days) this is ideal, as you can also assess peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
+If the candidate has code on Github (increasingly common in these “Github is your résumé” days) this is ideal, as you can also assess peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
 
 If the candidate does not have code publicly available that they can point you to, you can ask them to provide you with sample code.
 This is somewhat less information-rich than seeing their unedited activity, but is still remarkably useful: in our experience, people who write poor code don’t know they are writing poor code, and hence the code provided is flawed, despite the opportunity given to showcase their best work.
@@ -155,8 +155,8 @@ Leaving the choice of topic to the candidate is a critical part of the process:
 
 *  “Tell me about something I might find interesting” probes the candidate’s empathy (or ability to form a theory of mind).
 *  It sets the Q&A interaction on the candidate’s home ground.
-   This is *critical* as by handing domain expertise to the candidate, you eliminate a very typical information poor exchange from traditional interviews that requires the interviewer to set the frame for a question before they ask it.
-   Now if the candidate gives a poor answer you don’t know whether it was because you did a lousy job explaining the context (trust me, I’ve seen it and I’ve done it), and it also burns time that could be used listening to the candidate instead of your fellow interviewers. When the candidate choses the frame, you can reasonably expect them to answer questions authoritatively without risk of misunderstanding.
+   This is *critical* as by handing domain expertise to the candidate, you eliminate a very typical information poor exchange from traditional interviews that requires the interviewer to set the frame for a question before they ask it - then if the candidate gives a poor answer you don’t know whether it was because you did a lousy job explaining the context (trust me, I’ve seen it and I’ve done it), and it also burns time that could be used listening to the candidate instead of your fellow interviewers.
+   When the candidate choses the frame, you can reasonably expect them to answer questions authoritatively without risk of misunderstanding.
 *  It probes a quality that is very important to me, personally, as a manager: I expect my engineers to have *better* narrow domain expertise than me, and I need them to be able to *explain* things to me effectively in a way that allows me to make good decisions.
    It is a *feature* to allow a candidate to talk about something that is not immediately related to our position: we are evaluating their effectiveness at technical communication.
 *  As the only group format in the process, it gives a candidate a way to get a handle on any anxiety.
@@ -228,13 +228,13 @@ I am a big fan of doing on-site for shortlisted candidates.
 It makes you think more carefully about your short-listing, they meet more people, and people do better in person than over zoom.
 Also, zoom issues grossly disadvantage certain candidates, particularly ones where English is not their first language, or with poor Internet access.
 
-Please note that teams are assumed to be responsible adults and can follow a brief like “lunchtime is still part of a recruitment process, no you don’t get to ask them if they have kids or get into politics”.
+Please note that team members are assumed to be responsible adults and can follow a brief like “lunchtime is still part of a recruitment process, no you don’t get to ask them if they have kids or get into politics”.
 
 1:1 time
 --------
 
 Panel members, team members, and anyone who wishes to compete for whatever slots remain after that get 30 minutes each for 1:1 time with the candidate. Each pair gets to decide how to spend that time.
-I generally spend it describing how rewarding I find the job (if I am hiring) or offering to ask any questions (if I am a team member).
+I generally spend it describing how rewarding I find the job (if I am hiring) or offering to answer any questions (if I am a team member).
 If I detect the candidate is frazzled, I might even just offer them coffee and a break.
 You can see the guidance we offer to the candidate in Appendix D.
 At these point everybody has seen the talk and many have had informal lunch time with the candidate, so questions from the candidate get to be very relevant and useful for them.
@@ -287,7 +287,7 @@ Compliance / HR
 One of the reasons people are scared to experiment with their recruiting process is that they feel that their existing process is there for legal reasons.
 I have generally found my HR professionals to be very open to nuanced discussions about what the law requires (whether in letter or in spirit) and how to experiment within those confines.
 It is important to understand that HR’s hands are to some extend tied once you have written the job description. See Appendix F on some tips on job descriptions.
-You are required (and should be!) to be able to demonstrate that you did not discriminate against a candidate you rejected.
+You are required (and should be!) to be able to demonstrate that you did not unfairly discriminate against a candidate you rejected.
 While the process described here is geared towards reaching the *best* outcome for everybody concerned, I have full confidence it is also fair both ethically and in the manner required by law.
 
 Here are the auditable records that come out of this process (and remember this comes at the end of the screening process described in Appendix B which has its own outputs)
@@ -344,7 +344,7 @@ I have had great success with this process, but of course I am always thinking o
 *  I am considering going further away from the “job talk” and specifically asking for a code walkthrough format.
    I haven’t figured out how to do this in the light of the concerns in Appendix C.
 *  I take up the slop of the lunch break by finding the candidate a room so they can some quiet time before 1:1s.
-   I really want to explicitly build those in the schedule.
+   I really want to explicitly build those in the schedule. [Update: done]
    Introverts are in a meltdown at that point and maybe they will feel better knowing a break is coming.
 *  Along the same lines, considering explicitly building in bathroom breaks to the schedule.
    Feels wrong when the candidate has to ask.
@@ -413,6 +413,7 @@ I greatly dislike non-public hires.
 I don’t dislike hiring internal people, but one should compete a job fairly and not just post in in the basement with the burnt out lightbulb.
 It’s better for everyone in the long run.
 There are many reasons for doing this, but the most compelling one is that if we hire uncompetitively from sister institutions, we are perpetuating the appallingly bad diversity mix of our institutions without even trying to see if we can do better.
+Fresh blood frequently brings new technical skills, experience and ideas.
 
 **The weed-out**
 
@@ -512,18 +513,18 @@ LSST is a quasi-academic / casual dress environment. With SQuaRE you are not exp
 
 Please email SQuaRE’s manager at [] if you have any questions (or would like advice on selecting a talk topic). If you would find understanding the motivation behind our format helpful, you can read about it at sqr-081.lsst.io 
 
-Appendix E: The reference call
-==============================
+Appendix E: The manager-to-manager call
+=======================================
 
 Here is the current version of the questions I ask in this step
 
 1. When, where and in what capacity did you work with [candidate]?
 
-2. How would you describe their core technical competence (such as their ability to write clean, well documented code in good time, [other relevant topipcs] etc)
+2. How would you describe their core technical competence (such as their ability to write clean, well documented code in good time, [other relevant topics] etc)
 
 3. [for non-junior candidates] How would you describe their senior skills (such as software and system design, ability to work effectively in a self-directed manner, capacity to lead in the development of policy and system improvement)
 
-4. How would describe their ability to interact effectively with their coworkers, especially in non face-to-face interactions (this is where I will mention if the candidate plans to join us remotely)
+4. How would you describe their ability to interact effectively with their coworkers, especially in non face-to-face interactions [this is where I will mention if the candidate plans to join us remotely)
 
 5. Are there any areas in which you wished for some improvement on their part?
 
@@ -557,6 +558,6 @@ Here are some points and pitfalls:
 -  Re the language issue: a great programmer can code in any language. The question is, are you able to *tell* they are a great programmer in the language they are currently coding in. There’s nothing wrong with asking for python if you are a python shop (obviously), but don’t box yourself in too much.
 -  Re the background issue: Ideally a team should have a mix of backgrounds, but I at least have found it far easier to teach astronomy to my software engineers than to teach software engineering to my astronomers. Ask for an astronomical background only when absolutely necessary.
 -  Under “Required” only list things you are absolutely unwilling to live without. Most of your content should be under “Desirable” to give yourself more flexibility.
--  Finally, always have your job descriptions proofread by someone outside your immediate organization. It is amazing how often you can be unconsciously telegraphing negative messages, especially if you are in the habit of recycling them or frankesteining text from previous openings.
+-  Finally, always have your job descriptions proofread by someone outside your immediate organization. It is amazing how often you can be unconsciously telegraphing negative messages, especially if you are in the habit of recycling them or frankensteining text from previous openings.
 
 Good luck!
