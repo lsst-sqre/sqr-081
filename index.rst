@@ -53,7 +53,7 @@ Why does this framing matter?
 3. It places the team (typically peers) centrally in a process that often favours managers.
    (Note this is *not the same at all* as the dreaded “interviewing for fit” practice - see later).
 4. It acknowledges that the trade-offs that are made during nuanced recruiting that are hard to capture in a standard question + point scoring format.
-   For example, the team may respond more positively to a more junior person with a great track record for picking up new things than a more exprienced person with an inflexible attitude.
+   For example, the team may respond more positively to a more junior person with a great track record for picking up new things than a more experienced person with an inflexible attitude.
    Sure, all things being absolutely equal you might want the person with more experience, but things are never absolutely equal.
 5. Transparency! Informed consent! You cannot maximize job satisfaction if you hide things from the candidates.
    It’s like using a solver for Wordle.  You’re only cheating yourself (and it misses the point of the exercise.)
@@ -126,7 +126,7 @@ Would you actually consider hiring them without seeing a portofolio?
 
 Even if the code is not in a language or area relating to the job description, you can derive highly actionable information from it such as cleanliness of style, documentation style, architectural hygiene and best practices such lint and test.
 
-If the candidate has code on Github (increasingly common in these “Github is your username” days) this is ideal, as you can also asses peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
+If the candidate has code on Github (increasingly common in these “Github is your username” days) this is ideal, as you can also assess peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
 
 If the candidate does not have code publicly available that they can point you to, you can ask them to provide you with sample code.
 This is somewhat less information-rich than seeing their unedited activity, but is still remarkably useful: in our experience, people who write poor code don’t know they are writing poor code, and hence the code provided is flawed, despite the opportunity given to showcase their best work.
@@ -523,7 +523,7 @@ Here is the current version of the questions I ask in this step
 
 3. [for non-junior candidates] How would you describe their senior skills (such as software and system design, ability to work effectively in a self-directed manner, capacity to lead in the development of policy and system improvement)
 
-4. How would describe their ability to interact effectively with their coworkers, especially in non face-to-face interactions [this is where I will mention if the candidate plans to join us remotely)
+4. How would describe their ability to interact effectively with their coworkers, especially in non face-to-face interactions (this is where I will mention if the candidate plans to join us remotely)
 
 5. Are there any areas in which you wished for some improvement on their part?
 
@@ -557,6 +557,6 @@ Here are some points and pitfalls:
 -  Re the language issue: a great programmer can code in any language. The question is, are you able to *tell* they are a great programmer in the language they are currently coding in. There’s nothing wrong with asking for python if you are a python shop (obviously), but don’t box yourself in too much.
 -  Re the background issue: Ideally a team should have a mix of backgrounds, but I at least have found it far easier to teach astronomy to my software engineers than to teach software engineering to my astronomers. Ask for an astronomical background only when absolutely necessary.
 -  Under “Required” only list things you are absolutely unwilling to live without. Most of your content should be under “Desirable” to give yourself more flexibility.
--  Finally, always have your job descriptions proofread by someone outside your immediate organization. It is amazing how often you can be unconsciously telegraphing negative messages, especially if you are in the habit of recycling them or frankesteining text previous openings.
+-  Finally, always have your job descriptions proofread by someone outside your immediate organization. It is amazing how often you can be unconsciously telegraphing negative messages, especially if you are in the habit of recycling them or frankesteining text from previous openings.
 
 Good luck!
