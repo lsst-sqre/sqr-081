@@ -10,7 +10,7 @@
 
    **This is not a Rubin Data Management policy document; it is an explanation of practice in one team. It is being published for transparency and in the hope of sparking useful discussions.**
 
-   This document, while non-technical, is written in a technical context. In particular, the word "bias" is used in its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice).
+   This document, while non-technical, is written in a technical context. In particular, the word "bias" is used mostly its technical sense ("a systematic distortion of a statistical result due to a factor not allowed for in its derivation") rather that its colloquial sense (synonymous w/ prejudice). Of course one can easily result in the other, but even when it does not, it's bad news!
 
 Abstract
 ========
@@ -124,7 +124,7 @@ Would you actually consider hiring them without seeing a portofolio?
 
 Even if the code is not in a language or area relating to the job description, you can derive highly actionable information from it such as cleanliness of style, documentation style, architectural hygiene and best practices such lint and test.
 
-If the candidate has code on Github (increasingly common in these “Github is your username” days) this is ideal, as you can also asses peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
+If the candidate has code on Github (increasingly common in these “Github is your résumé” days) this is ideal, as you can also asses peri-code interactions such as whether they are polite to people filing bug reports, or whether their velocity is good.
 
 If the candidate does not have code publicly available that they can point you to, you can ask them to provide you with sample code.
 This is somewhat less information-rich than seeing their unedited activity, but is still remarkably useful: in our experience, people who write poor code don’t know they are writing poor code, and hence the code provided is flawed, despite the opportunity given to showcase their best work.
@@ -153,8 +153,8 @@ Leaving the choice of topic to the candidate is a critical part of the process:
 
 *  “Tell me about something I might find interesting” probes the candidate’s empathy (or ability to form a theory of mind).
 *  It sets the Q&A interaction on the candidate’s home ground.
-   This is *critical* as by handing domain expertise to the candidate, you eliminate a very typical information poor exchange from traditional interviews that requires the interviewer to set the frame for a question before they ask it.
-   Now if the candidate gives a poor answer you don’t know whether it was because you did a lousy job explaining the context (trust me, I’ve seen it and I’ve done it), and it also burns time that could be used listening to the candidate instead of your fellow interviewers. When the candidate choses the frame, you can reasonably expect them to answer questions authoritatively without risk of misunderstanding.
+   This is *critical* as by handing domain expertise to the candidate, you eliminate a very typical information poor exchange from traditional interviews that requires the interviewer to set the frame for a question before they ask it - then if the candidate gives a poor answer you don’t know whether it was because you did a lousy job explaining the context (trust me, I’ve seen it and I’ve done it), and it also burns time that could be used listening to the candidate instead of your fellow interviewers.
+   When the candidate choses the frame, you can reasonably expect them to answer questions authoritatively without risk of misunderstanding.
 *  It probes a quality that is very important to me, personally, as a manager: I expect my engineers to have *better* narrow domain expertise than me, and I need them to be able to *explain* things to me effectively in a way that allows me to make good decisions.
    It is a *feature* to allow a candidate to talk about something that is not immediately related to our position: we are evaluating their effectiveness at technical communication.
 *  As the only group format in the process, it gives a candidate a way to get a handle on any anxiety.
@@ -508,8 +508,8 @@ LSST is a quasi-academic / casual dress environment. With SQuaRE you are not exp
 
 Please email SQuaRE’s manager at [] if you have any questions (or would like advice on selecting a talk topic), and we look forward to seeing you soon.
 
-Appendix E: The reference call
-==============================
+Appendix E: The manager-to-manager call
+=======================================
 
 Here is the current version of the questions I ask in this step
 
